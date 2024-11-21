@@ -7,7 +7,7 @@
                 alt="">
             <div class="card-body">
                 <h5 class="card-title">{{title}}</h5>
-                <button type="button" class="btn btn-primary" @click="showPicture()">Родробнее</button>
+                <button type="button" class="btn btn-primary" @click="showPicture()">Подробнее</button>
             </div>
         </div>
     </div>
